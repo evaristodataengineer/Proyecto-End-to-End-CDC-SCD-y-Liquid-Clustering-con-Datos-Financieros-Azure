@@ -366,6 +366,3 @@ VACUUM nombre_tabla RETAIN 168 HOURS
 
 ---
 
-**Autor**: Proyecto educativo de Data Engineering
-**Versión**: 1.0
-**Última actualización**: 2024
